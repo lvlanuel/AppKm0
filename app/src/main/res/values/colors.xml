@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#287ebb</color>
+    <color name="colorPrimaryDark">#273890</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="Accent">#5176d0</color>
+    <color name="colorAccentDark">#2e5bca</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+    <color name="colorSecundaryText">#757575</color>
+    <color name="colorTextBlack">#222</color>
+
+    <color name="alertalig">#DD4B39</color>
+    <color name="alerta">#B92D21</color>
+</resources>

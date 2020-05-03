@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+
+
+    <dimen name="onboard_text_size_inicio"> 24sp</dimen>
+    <dimen name="onboard_text_size_title"> 22sp</dimen>
+    <dimen name="onboard_text_size_descp"> 15sp </dimen>
+    <dimen name="button_onboard"> 30dp </dimen>
+    <dimen name="button_onboard_text_size"> 12sp </dimen>
+    <dimen name="buton_edit_text_space"> 10dp </dimen>
+
+
+</resources>

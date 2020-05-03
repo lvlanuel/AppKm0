@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MiBigBro</string>
+
+    <!--- ONBOARD -->
+    <string name="titleonboard">Bienvenido a</string>
+    <string name="onbot1">Proteje tu automovil con el mejor seguro</string>
+    <string name="onbom1">Protege tu motorizado contra choques, robos, conmocion social y mucho mas</string>
+    <string name="onbot2">Personaliza tu seguro</string>
+    <string name="onbom2">Personaliza el seguro a tu medida y utilizalo los dias que mas lo necesites</string>
+    <string name="onbot3">Personaliza el precio de tu seguro</string>
+    <string name="onbom3">Nos adecuamos a tus necesidades! Te ofrecemos seguros diarios, paquetes e incluso tu puedes ingresar el precio para tu seguro</string>
+    <string name="button_sig">Siguiente</string>
+    <string name="button_ant">Anterior</string>
+    <string name="button_ing">Ingresar</string>
+
+</resources>
